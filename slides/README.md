@@ -1,3 +1,3 @@
-# Figures
+# Slides
 
-This folder contains the figures generated from the notebooks and used in the report and presentation.
+This folder contains the presentation slides and related presentation materials.
