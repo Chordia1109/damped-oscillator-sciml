@@ -23,4 +23,19 @@ This project studies the damped harmonic oscillator and compares classical numer
 - `slides/`: presentation materials
 
 ## Status
-Project setup in progress.
+## Problem Setup
+The damped harmonic oscillator is governed by:
+
+m x'' + c x' + k x = 0
+
+with parameters:
+- m = 1.0
+- c = 0.4
+- k = 4.0
+
+initial conditions:
+- x(0) = 1.0
+- x'(0) = 0.0
+
+time interval:
+- t in [0, 10]
