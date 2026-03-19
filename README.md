@@ -16,12 +16,15 @@ This project studies the damped harmonic oscillator and compares classical numer
 - Physics-Informed Neural Network (PINN)
 
 ## Repository Structure
-- `notebooks/`: Jupyter notebooks for experiments
-- `src/`: reusable Python code
-- `figures/`: plots for report and presentation
-- `report/`: LaTeX report
-- `slides/`: presentation materials
 
+- `notebooks/`: Jupyter notebooks for experiments
+  - `01_baseline_solution.ipynb`
+  - `02_euler_rk4.ipynb`
+  - `03_pinn.ipynb`
+- `figures/`: plots for the report and presentation
+- `report/`: LaTeX report and final PDF
+- `slides/`: presentation materials
+- `src/`: reusable Python code for future extensions
 ## Status
 ## Problem Setup
 The damped harmonic oscillator is governed by:
